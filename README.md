@@ -57,4 +57,4 @@ A primeira etapa foi a criação do `diagram.json` no Wokwi. Posteriormente, o a
   - Marcus Vinicius  
 
 ## VÍDEO EXPLICATIVO
-[Link do vídeo explicativo](#)
+[Link do vídeo explicativo](https://drive.google.com/drive/u/0/folders/17X5zJYEerDWW--GPdlOyqcvGP8CdELrt)
